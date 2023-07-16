@@ -21,12 +21,11 @@
 
 
 ### You cand find me:
-### Linkedin[linkedin]
-### Instagram[instagram]
+### [Linkedin][linkedin]
+### [Instagram][instagram]
 
 
 
 [website]: https://linkedin.com/in/joaquincollazoruiz
 [instagram]: https://instagram.com/joaquincollazoruiz
 [linkedin]: https://linkedin.com/in/joaquincollazoruiz
-[blank]: ""
