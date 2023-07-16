@@ -12,6 +12,8 @@
 <img align="left" alt="iOS" width="26px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/ec/70/a6/ec70a6ff-fbbb-f924-0b05-cfa0028e3269/Xcode-85-220-0-4-2x.png/1200x630bb.png"/>
 <img align="left" alt="Android" width="26px" src="https://developer.android.com/static/studio/images/new-studio-logo-1.png"/>
 
+<br />
+
 ### You cand find me:
 ### [Linkedin][linkedin]
 ### [Instagram][instagram]
